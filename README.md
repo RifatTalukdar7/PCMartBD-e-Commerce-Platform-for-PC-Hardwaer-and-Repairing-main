@@ -66,7 +66,7 @@ PC Mart BD focuses on three core areas:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sameer-at-git/pcmartbd.git
+   git clone https://github.com/RifatTalukdar7/pcmartbd.git
    cd pcmartbd
    ```
 
@@ -78,8 +78,6 @@ PC Mart BD focuses on three core areas:
 3. **Run the Application**
 
    * Use a local server (**XAMPP/WAMP**).
-   * Access via: `http://localhost/pcmartbd` *(Not yet implemented)*
-
 ---
 
 ## 🤝 Contributing
@@ -121,8 +119,8 @@ Feel free to use, modify, and distribute.
 
 For inquiries or support, feel free to reach out:
 
-- **Author**: Sameer Sayed  <br>
-              Rifat Talukdar<br>
+- **Author**: Rifat Talukdar<br>
+              Sameer Sayed  <br>
               Md. Tamjid Hossain<br>
               Wasif Asad Alvi<br>
 ---
